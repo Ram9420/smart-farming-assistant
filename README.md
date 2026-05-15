@@ -121,7 +121,7 @@ API_KEY = "YOUR_API_KEY"
 
 ---
 
-# 📊 Machine Learning Model
+# Machine Learning Model
 
 The crop prediction model is trained using:
 
@@ -142,7 +142,27 @@ Input Features:
 
 # 📸 Screenshots
 
-(Add screenshots here later)
+## 🔐 Login Page
+
+![Login Page](Screenshots/login.page.png)
+
+---
+
+## 🌾 Crop Prediction Dashboard
+
+![Dashboard](Screenshots/Farmer Dashboard.png)
+
+---
+
+## 📊 Prediction Result
+
+![Prediction](Screenshots/recommendations.png)
+
+---
+
+## 🌦️ Weather Integration
+
+![Weather](Screenshots/Whether API.png)
 
 ---
 
