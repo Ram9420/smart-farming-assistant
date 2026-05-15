@@ -148,7 +148,7 @@ Input Features:
 
 ---
 
-## 🌾 Crop Prediction Dashboard
+## 🌾 Farmer Dashboard
 
 ![Dashboard](Screenshots/FarmerDashboard.png)
 
@@ -163,6 +163,10 @@ Input Features:
 ## 🌦️ Weather Integration
 
 ![Weather](Screenshots/WhetherAPI.png)
+
+
+## Prediction History
+![History](Screenshots/PredictioHistory.png)
 
 ---
 
