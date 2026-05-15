@@ -152,6 +152,7 @@ Input Features:
 
 ![Dashboard](Screenshots/Farmer Dashboard.png)
 
+
 ---
 
 ## 📊 Prediction Result
